@@ -1,0 +1,15 @@
+body{
+    background: red;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+.container {
+    background: blue;
+    width: 80%;
+    border: 10px solid brown;
+    text-align: center;
+    
+}
